@@ -1,0 +1,5 @@
+E:\Web\BaseDao\BaseDao\BaseDao\bin\Release\BaseDao.dll
+E:\Web\BaseDao\BaseDao\BaseDao\bin\Release\BaseDao.pdb
+E:\Web\BaseDao\BaseDao\BaseDao\obj\Release\BaseDao.csprojResolveAssemblyReference.cache
+E:\Web\BaseDao\BaseDao\BaseDao\obj\Release\BaseDao.dll
+E:\Web\BaseDao\BaseDao\BaseDao\obj\Release\BaseDao.pdb
